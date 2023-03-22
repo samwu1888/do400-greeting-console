@@ -1,0 +1,18 @@
+[2021-07-20 08:49:28.906] [cli] [info] CLI main {"_":[],"diff":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"install-extension":["redhat.vscode-quarkus-1.6.0.vsix"],"version":false,"verbose":false,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-gpu":false,"telemetry":false,"debugRenderer":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"disable-keytar":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"force":false,"do-not-sync":false,"trace":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"__sandbox":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"logsPath":"/home/student/.config/VSCodium/logs/20210720T084928"}
+[2021-07-20 08:49:28.944] [cli] [info] Installing the extension: redhat.vscode-quarkus
+[2021-07-20 08:49:29.340] [cli] [info] Extracted extension to /home/student/.vscode-oss/extensions/.ef45c880-6b91-4d40-9da3-465c50181cb2: redhat.vscode-quarkus
+[2021-07-20 08:49:29.351] [cli] [info] Renamed to /home/student/.vscode-oss/extensions/redhat.vscode-quarkus-1.6.0
+[2021-07-20 08:49:29.352] [cli] [info] Installation completed. redhat.vscode-quarkus
+[2021-07-20 08:49:29.644] [cli] [info] Installing extension: redhat.java
+[2021-07-20 08:49:29.645] [cli] [info] Installing extension: vscjava.vscode-java-debug
+[2021-07-20 08:49:32.263] [cli] [info] Downloaded extension: vscjava.vscode-java-debug /home/student/.config/VSCodium/CachedExtensionVSIXs/vscjava.vscode-java-debug-0.34.0
+[2021-07-20 08:49:32.316] [cli] [info] Extracted extension to /home/student/.vscode-oss/extensions/.dbdd02fe-5ff9-4cda-8d12-a20d0f5d8603: vscjava.vscode-java-debug
+[2021-07-20 08:49:32.323] [cli] [info] Renamed to /home/student/.vscode-oss/extensions/vscjava.vscode-java-debug-0.34.0
+[2021-07-20 08:49:32.324] [cli] [info] Installation completed. vscjava.vscode-java-debug
+[2021-07-20 08:49:32.328] [cli] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2021-07-20 08:49:37.645] [cli] [info] Downloaded extension: redhat.java /home/student/.config/VSCodium/CachedExtensionVSIXs/redhat.java-0.80.0
+[2021-07-20 08:49:38.296] [cli] [info] Extracted extension to /home/student/.vscode-oss/extensions/.e991c0b8-d4e4-46b9-94fb-097cf3c2af03: redhat.java
+[2021-07-20 08:49:38.335] [cli] [info] Renamed to /home/student/.vscode-oss/extensions/redhat.java-0.80.0
+[2021-07-20 08:49:38.336] [cli] [info] Installation completed. redhat.java
+[2021-07-20 08:49:38.342] [cli] [info] Extensions installed successfully: redhat.java
+[2021-07-20 08:49:38.342] [cli] [info] Successfully installed the extension: redhat.vscode-quarkus
